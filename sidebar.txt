@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[trm:home|Door43 (trm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-trm|d43-trm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-trm/archive/master.zip|d43-trm.zip]]
+
+**Recent Changes**
+{{changes>ns = trm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/trm|Ethnologue data]]
+
